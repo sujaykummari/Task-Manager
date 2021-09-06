@@ -1,5 +1,5 @@
 # Task-Manager
 
-Task Manager using basic html,Bootstrap and javascript. 
+Task Manager using basic html,Css(Bootstrap) and javascript. 
 
 [View](https://sujaykummari.github.io/Task-Manager/)

@@ -56,10 +56,7 @@ const addnewcard = () => { // using arrow function
 
     globalTaskData.push(taskData);
 
-    //updata the local storage
-    // tasky is becaus ti identify our data in the local storage as there are many web sites
-    //parse will convert the json to js
-    //stringify will convert the js to json
+    
     saveToLocalStorage(); 
     
     //generate HTML code
